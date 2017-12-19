@@ -24,18 +24,18 @@
       <containedType xsi:type="SQLDataTypes:CharacterStringDataType" xmi:id="_HkM5YOR4Eeea_aw_KKy1yw" name="CHAR" length="5"/>
     </columns>
     <columns xsi:type="LUW:LUWColumn" xmi:id="_HlvxgOR4Eeea_aw_KKy1yw" name="Column2">
-      <containedType xsi:type="SQLDataTypes:CharacterStringDataType" xmi:id="_HlvxgeR4Eeea_aw_KKy1yw" name="CHAR" length="5"/>
+      <containedType xsi:type="SQLDataTypes:ApproximateNumericDataType" xmi:id="_-J8wAOR4Eeea_aw_KKy1yw" name="FLOAT" primitiveType="FLOAT" precision="53"/>
     </columns>
-    <columns xsi:type="LUW:LUWColumn" xmi:id="_HomRMOR4Eeea_aw_KKy1yw" name="Column3">
-      <containedType xsi:type="SQLDataTypes:CharacterStringDataType" xmi:id="_HomRMeR4Eeea_aw_KKy1yw" name="CHAR" length="5"/>
+    <columns xsi:type="LUW:LUWColumn" xmi:id="_HomRMOR4Eeea_aw_KKy1yw" name="Column33">
+      <containedType xsi:type="SQLDataTypes:DataLinkDataType" xmi:id="_9waOoOR4Eeea_aw_KKy1yw" name="DATALINK" primitiveType="DATALINK" length="5"/>
     </columns>
     <columns xsi:type="LUW:LUWColumn" xmi:id="_Hqsi8OR4Eeea_aw_KKy1yw" name="Column4">
-      <containedType xsi:type="SQLDataTypes:CharacterStringDataType" xmi:id="_Hqsi8eR4Eeea_aw_KKy1yw" name="CHAR" length="5"/>
+      <containedType xsi:type="SQLDataTypes:FixedPrecisionDataType" xmi:id="_9YRbcOR4Eeea_aw_KKy1yw" name="NUMERIC" primitiveType="NUMERIC" precision="5"/>
     </columns>
-    <columns xsi:type="LUW:LUWColumn" xmi:id="_Hs7XkOR4Eeea_aw_KKy1yw" name="Column5">
-      <containedType xsi:type="SQLDataTypes:CharacterStringDataType" xmi:id="_Hs7XkeR4Eeea_aw_KKy1yw" name="CHAR" length="5"/>
+    <columns xsi:type="LUW:LUWColumn" xmi:id="_Hs7XkOR4Eeea_aw_KKy1yw" name="Column54">
+      <containedType xsi:type="SQLDataTypes:IntegerDataType" xmi:id="_-sCwcOR4Eeea_aw_KKy1yw" name="SMALLINT" primitiveType="SMALLINT"/>
     </columns>
-    <columns xsi:type="LUW:LUWColumn" xmi:id="_HvBpUOR4Eeea_aw_KKy1yw" name="Column6">
+    <columns xsi:type="LUW:LUWColumn" xmi:id="_HvBpUOR4Eeea_aw_KKy1yw" name="Column66">
       <containedType xsi:type="SQLDataTypes:CharacterStringDataType" xmi:id="_HvBpUeR4Eeea_aw_KKy1yw" name="CHAR" length="5"/>
     </columns>
   </LUW:LUWTable>
